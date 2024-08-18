@@ -1,2 +1,3 @@
 # ai-case-study
-First challenge due August 22
+## AI with Dragon Medically Speaking
+**Physicians are adopting AI using Nuance's Dragon Medically Speaking**
