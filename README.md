@@ -1,7 +1,7 @@
 # ai-case-study
 # Nuance's Dragon: Medically Speaking
 ## Overview and origin
-Nuance Dragon Medical One, owned by Microsoft
+## Company:  Nuance Dragon Medical One, owned by Microsoft
 In the healthcare space, there are a few AI solutions utilized by physicians to aid in their documentation of patient notes.  The most widely used and highly rated is Nuance Dragon Medical One (aka Dragon), currently owned by Microsoft.
 Voice dictation and speech recognition are important tools because when utilized correctly, they reduce the amount of time a physician spends typing, they improve accuracy of patient notes, and they assist in the correct billing for services rendered to the patient.
 Dragon was founded in 1982 by James and Dr. Janet Baker, a husband-and-wife team.  And by 1990, they had developed the world’s first continuous speech dictation system. But it wasn’t until 1997 that Dragon, as a discreet voice recognition system was released for the public to purchase and use. For a complete timeline of Dragon’s evolution from a single license PC based desktop application to a cloud based ambient AI solution visit this site:
