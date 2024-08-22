@@ -26,12 +26,12 @@ Today, I would recommend that Microsoft continue to fuel R&D for their Dragon Me
 According to the American Medical Association (AMA), AI powered scribes have saved physicians one hour each day.  I know from my hospital IT experience, saving a physician one hour a day is a huge win!  It’s a win for the physician, for the patient, and for revenue cycle. Link to the AMA article:  
 https://www.ama-assn.org/practice-management/digital/ai-scribe-saves-doctors-hour-keyboard-every-day
 ### List of References
-1. [Nuance website]. (https://www.nuance.com/healthcare/dragon-ai-clinical-solutions/dragon-medical-one.html)
-2. [Dragon timeline from inception]. (https://www.nuance.com/asset/en_us/collateral/healthcare/infographic/ig-dmo-evolution-en-us.pdf)
-3. [KLAS Research website].(https://klasresearch.com/)
-4. [KLAS Best in Speech award to Nuance]. (https://klasresearch.com/best-in-klas-ranking/speech-recognition-front-end-ehr/2024/317)
-5. [American Medical Association Speech Recognition].(https://www.ama-assn.org/practice-management/digital/ai-scribe-saves-doctors-hour-keyboard-every-day)
-6. [Microsoft acquisition of Nuance].(https://news.microsoft.com/2022/03/04/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai/)
+1. [Nuance website](https://www.nuance.com/healthcare/dragon-ai-clinical-solutions/dragon-medical-one.html)
+2. [Dragon timeline from inception](https://www.nuance.com/asset/en_us/collateral/healthcare/infographic/ig-dmo-evolution-en-us.pdf)
+3. [KLAS Research website](https://klasresearch.com/)
+4. [KLAS Best in Speech award to Nuance](https://klasresearch.com/best-in-klas-ranking/speech-recognition-front-end-ehr/2024/317)
+5. [American Medical Association Speech Recognition](https://www.ama-assn.org/practice-management/digital/ai-scribe-saves-doctors-hour-keyboard-every-day)
+6. [Microsoft acquisition of Nuance](https://news.microsoft.com/2022/03/04/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai/)
 
 
 
