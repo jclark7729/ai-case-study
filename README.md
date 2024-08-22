@@ -25,5 +25,13 @@ The acquisition of Dragon by Nuance in 2005 was perfectly timed.  Dragon had a s
 Today, I would recommend that Microsoft continue to fuel R&D for their Dragon Medicine One AI product. I would also advise that they work more closely with the big three EMR companies – Epic, Cerner, and Allscripts, to make the voice dictation or transcription of patient notes populate more fluidly within the EMRs so that it is easier to locate and edit the notes and allow physicians to take better advantage of smart phrases and templates within speech technology.  Push the AI ambient scribe technology as much as possible to reduce the number of key clicks physicians must make.
 According to the American Medical Association (AMA), AI powered scribes have saved physicians one hour each day.  I know from my hospital IT experience, saving a physician one hour a day is a huge win!  It’s a win for the physician, for the patient, and for revenue cycle. Link to the AMA article:  
 https://www.ama-assn.org/practice-management/digital/ai-scribe-saves-doctors-hour-keyboard-every-day
+### List of References
+1. Nuance website:  https://www.nuance.com/healthcare/dragon-ai-clinical-solutions/dragon-medical-one.html
+2. Dragon timeline from inception:  https://www.nuance.com/asset/en_us/collateral/healthcare/infographic/ig-dmo-evolution-en-us.pdf
+3. KLAS Research website: https://klasresearch.com/
+4. KLAS Best in Speech award to Nuance:  https://klasresearch.com/best-in-klas-ranking/speech-recognition-front-end-ehr/2024/317
+5. American Medical Association Speech Recognition:  https://www.ama-assn.org/practice-management/digital/ai-scribe-saves-doctors-hour-keyboard-every-day
+Microsoft acquisition of Nuance:  https://news.microsoft.com/2022/03/04/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai/
+
 
 
