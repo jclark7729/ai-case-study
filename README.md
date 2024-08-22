@@ -31,7 +31,7 @@ https://www.ama-assn.org/practice-management/digital/ai-scribe-saves-doctors-hou
 3. KLAS Research website: https://klasresearch.com/
 4. KLAS Best in Speech award to Nuance:  https://klasresearch.com/best-in-klas-ranking/speech-recognition-front-end-ehr/2024/317
 5. American Medical Association Speech Recognition:  https://www.ama-assn.org/practice-management/digital/ai-scribe-saves-doctors-hour-keyboard-every-day
-Microsoft acquisition of Nuance:  https://news.microsoft.com/2022/03/04/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai/
+6. Microsoft acquisition of Nuance:  https://news.microsoft.com/2022/03/04/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai/
 
 
 
